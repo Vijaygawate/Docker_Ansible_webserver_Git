@@ -29,3 +29,4 @@ and below no to yes
 #ssh-copy-id -i root@<private ip of ansible server>
 #ssh-copy-id -i root@<private ip of web server>
 
+
