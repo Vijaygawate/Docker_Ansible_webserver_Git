@@ -40,6 +40,7 @@ manage jenkins > configure system > add ssh
 pw- Vijay22@
 2.Name - Ansible 
 3.Name - Web_Server 
+and then check the connections if success or not 
 Apply and save 
 
 Now, configure same job i.e now whatever files we pull from github on jenkins server need to send on ansible server 
